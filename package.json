@@ -4,6 +4,7 @@
   "description": "Convert an array to a static, unchanging ciruclar linkedlist",
   "type": "module",
   "main": "./lib/app.js",
+  "types": "./types/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "node ./lib/test.js"
